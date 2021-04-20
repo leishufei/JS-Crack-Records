@@ -26,4 +26,5 @@
 *    [AqiStudy](https://github.com/leishufei/JS-Crack-Records/tree/main/aqistudy)
 *    [巨量星图](https://github.com/leishufei/JS-Crack-Records/tree/main/%E5%B7%A8%E9%87%8F%E6%98%9F%E5%9B%BE)
 *    [Hey Tap登录](https://github.com/leishufei/JS-Crack-Records/tree/main/Hey%20Tap%E7%99%BB%E5%BD%95)
+*    [掌上高考](https://github.com/leishufei/JS-Crack-Records/tree/main/%E6%8E%8C%E4%B8%8A%E9%AB%98%E8%80%83)
 *   \...
