@@ -29,4 +29,5 @@
 *    [掌上高考](https://github.com/leishufei/JS-Crack-Records/tree/main/%E6%8E%8C%E4%B8%8A%E9%AB%98%E8%80%83)
 *    [船讯网](https://github.com/leishufei/JS-Crack-Records/tree/main/%E8%88%B9%E8%AE%AF%E7%BD%91)
 *    [今日最热榜小程序](https://github.com/leishufei/JS-Crack-Records/tree/main/%E4%BB%8A%E6%97%A5%E6%9C%80%E7%83%AD%E6%A6%9C%E5%B0%8F%E7%A8%8B%E5%BA%8F)
+*    [百度指数](https://github.com/leishufei/JS-Crack-Records/tree/main/%E7%99%BE%E5%BA%A6%E6%8C%87%E6%95%B0)
 *   \...
