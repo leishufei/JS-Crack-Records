@@ -30,4 +30,5 @@
 *    [船讯网](https://github.com/leishufei/JS-Crack-Records/tree/main/%E8%88%B9%E8%AE%AF%E7%BD%91)
 *    [今日最热榜小程序](https://github.com/leishufei/JS-Crack-Records/tree/main/%E4%BB%8A%E6%97%A5%E6%9C%80%E7%83%AD%E6%A6%9C%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 *    [百度指数](https://github.com/leishufei/JS-Crack-Records/tree/main/%E7%99%BE%E5%BA%A6%E6%8C%87%E6%95%B0)
+*    [ICP/IP地址/域名信息备案管理系统](https://github.com/leishufei/JS-Crack-Records/tree/main/ICP_IP%20%E5%9C%B0%E5%9D%80_%E5%9F%9F%E5%90%8D%E4%BF%A1%E6%81%AF%E5%A4%87%E6%A1%88%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
 *   \...
