@@ -2,9 +2,7 @@
 
 # 声明
 
->   此项目中的 demo 仅用于个人学习交流，请勿用于商业用途！如利用本项目产生任何纠纷，与本人无关！若侵犯到您的利益，请联系我删除！
->
->   另外，项目中所有 python 代码只是基础部分，仅提供一种思路。
+>   此项目中的 demo 仅用于个人学习交流，请勿用于商业用途！利用本项目产生的任何纠纷与本人无关！若侵犯到您的利益，请联系我删除！
 
 # 项目目录
 
@@ -32,4 +30,5 @@
 *    [百度指数](https://github.com/leishufei/JS-Crack-Records/tree/main/%E7%99%BE%E5%BA%A6%E6%8C%87%E6%95%B0)
 *    [今日头条](https://github.com/leishufei/JS-Crack-Records/tree/main/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1pc)
 *    [ICP/IP地址/域名信息备案管理系统](https://github.com/leishufei/JS-Crack-Records/tree/main/ICP_IP%20%E5%9C%B0%E5%9D%80_%E5%9F%9F%E5%90%8D%E4%BF%A1%E6%81%AF%E5%A4%87%E6%A1%88%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
+*    [知乎x-zse-86](https://github.com/leishufei/JS-Crack-Records/blob/main/%E7%9F%A5%E4%B9%8Ex-zse-86)
 *   \...
