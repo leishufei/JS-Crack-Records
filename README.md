@@ -33,4 +33,5 @@
 *    [知乎x-zse-86](https://github.com/leishufei/JS-Crack-Records/blob/main/%E7%9F%A5%E4%B9%8Ex-zse-86)
 *    [七麦数据](https://github.com/leishufei/JS-Crack-Records/tree/main/%E4%B8%83%E9%BA%A6%E6%95%B0%E6%8D%AE)
 *    [途牛](https://github.com/leishufei/JS-Crack-Records/tree/main/%E9%80%94%E7%89%9B)
+*    [七猫](https://github.com/leishufei/JS-Crack-Records/tree/main/%E4%B8%83%E7%8C%AB%E5%B0%8F%E8%AF%B4)
 *   \...
