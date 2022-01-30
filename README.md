@@ -37,4 +37,5 @@
 *    [企查查列表页请求头](https://github.com/leishufei/JS-Crack-Records/tree/main/%E4%BC%81%E6%9F%A5%E6%9F%A5%E5%88%97%E8%A1%A8%E9%A1%B5%E8%AF%B7%E6%B1%82%E5%A4%B4)
 *    [同花顺](https://github.com/leishufei/JS-Crack-Records/tree/main/%E5%90%8C%E8%8A%B1%E9%A1%BAcookie)
 *    [网易云音乐评论](https://github.com/leishufei/JS-Crack-Records/tree/main/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E8%AF%84%E8%AE%BA)
+*    [知乎x-zse-96](https://github.com/leishufei/JS-Crack-Records/tree/main/%E7%9F%A5%E4%B9%8Ex-zse-96)
 *   \...
