@@ -76,7 +76,6 @@ class LagouSpider:
         if page > 1:
             self.data['first'] = 'false'
         self.data['pn'] = str(page)
-        # self.session.headers['referer'] = f'https://www.lagou.com/jobs/list_{self.keyword}?labelWords=sug&fromSearch=true&suginput=' + self.data['kd'][0:2]
         logger.info(self.session.headers['referer'])
         response = self.session.post(url, data=self.data)
         if response.status_code == 200:
